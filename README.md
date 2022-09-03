@@ -1,6 +1,6 @@
 # clock-in-bot
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]()
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/lperezmo/clock-in-bot/blob/main/Clock_in_bot.ipynb)
 
 
 ## Contents
